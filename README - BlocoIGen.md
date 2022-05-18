@@ -27,7 +27,7 @@ número é par ou ímpar. Se for par exiba também a raiz quadrada do mesmo; se 
 
 
  -  <b>TesteIdade</b> Faça um programa que receba a idade de uma pessoa e mostre na saída em qual
-categoria ela se encontra: (10-14 infantil |  15-17 juvenil  |  18-25 adulto )                 
+categoria ela se encontra: (10-14 infantil |  15-17 juvenil  |  18-25 adulto   )                 
 <br>
 
     
