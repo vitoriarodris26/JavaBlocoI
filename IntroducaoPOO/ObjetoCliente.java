@@ -29,6 +29,7 @@ public class ObjetoCliente {
 		
 		cliente2.estadoAtual();
 		cliente2.acesso();	
+		//
 		
 		
 		

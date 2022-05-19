@@ -35,7 +35,7 @@ public class ModeloCliente {
 		System.out.println("Seu idade e: "+ this.idade);
 		System.out.println("Seu genero e: "+ this.genero);
 		
-		
+		/**/
 		
 	}
 	

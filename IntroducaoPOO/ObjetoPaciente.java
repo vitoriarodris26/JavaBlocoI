@@ -21,7 +21,7 @@ public class ObjetoPaciente {
 		paciente1.TipoDor(); 
 		
 		System.out.println("\n    ");
-		System.out.println("******************************   ");
+		System.out.println("******************************");
 		System.out.println("\n                           ");
 		
 		
@@ -35,7 +35,7 @@ public class ObjetoPaciente {
 		paciente2.RemedioFrequente();
 		paciente2.IdadePaciente();
 		paciente2.TipoDor();
-		
+		/**/
 		
 	}
 }

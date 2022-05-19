@@ -1,3 +1,7 @@
+/*Crie uma classe paciente e apresente os atributos e métodos referentes
+esta classe, em seguida crie um objeto paciente, defina as instancias deste
+objeto e apresente as informações deste objeto no console.*/
+
 package IntroducaoPOO;
 
 public class ModeloPaciente {
@@ -44,7 +48,7 @@ public class ModeloPaciente {
 					System.out.println("IDADE:"+this.idade);
 					
 				
-			
+			//***//
 		}
 	
 
