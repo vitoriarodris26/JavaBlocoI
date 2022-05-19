@@ -30,13 +30,6 @@ public class ModeloCliente {
 	
 	
 	
-	
-	
-	
-	
-	
-	
-	
 	public void estadoAtual(){
 		System.out.println("Seu nome e: "+ this.nome);
 		System.out.println("Seu idade e: "+ this.idade);
