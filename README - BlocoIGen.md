@@ -13,20 +13,19 @@ E também marcam os meus primeiros passos com a linguagem Java :coffee:</i> "<p>
   
   
   
-  - <b>Maior Valor:</b> Faça um programa que receba três inteiros e diga qual deles é o maior. 
-  <br>
+  - <b> Maior Valor:  </b> <br>
+  Faça um programa que receba três inteiros e diga qual deles é o maior. 
+
+  - <b>OrdemCrescente:</b><br>
+   faça um programa que entre com três números e coloque em ordem crescente.
   
-  - <b>OrdemCrescente:</b>a um programa que entre com três números e coloque em ordem crescente.
-  <br>
-  
-  
-  -  <b>ImparPar</b> Faça um programa em que permita a entrada de um número qualquer e exiba se este
+  -  <b>ImparPar</b> <br>
+  Faça um programa em que permita a entrada de um número qualquer e exiba se este
 número é par ou ímpar. Se for par exiba também a raiz quadrada do mesmo; se for
-ímpar exiba o número elevado ao quadrado.                   
-<br>
+ímpar exiba o número elevado ao quadrado.                  
 
-
- -  <b>TesteIdade</b> Faça um programa que receba a idade de uma pessoa e mostre na saída em qual
+ -  <b>TesteIdade</b> <br>
+ Faça um programa que receba a idade de uma pessoa e mostre na saída em qual
 categoria ela se encontra: (10-14 infantil |  15-17 juvenil  |  18-25 adulto   )                 
 <br>
 
